@@ -23,5 +23,5 @@ This K-Drama shows how the **Media Outlets* can impabct lives in just a minute.
 '''python 
 if FakeNews == "lie":
   life ==  "destroyed"
-  else:
+else:
   life = "safe"
