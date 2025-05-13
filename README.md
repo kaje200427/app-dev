@@ -20,7 +20,7 @@ This K-Drama shows how the **Media Outlets* can impabct lives in just a minute.
 - The Pinocchio movie also shows how hard it is to be a journalist.
 ---
 
-'''code 
+'''python 
 if FakeNews == "lie":
   life ==  "destroyed"
   else:
